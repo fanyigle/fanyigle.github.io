@@ -1,2 +1,2 @@
-# fanyilge.github.io
+# Notes
 Huh
