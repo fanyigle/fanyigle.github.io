@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Stephen F.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fanyigle.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>rush&amp;roll</title>
+      <link>https://fanyigle.github.io/posts/rushroll/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanyigle.github.io/posts/rushroll/</guid>
+      <description>&lt;p&gt;Bye LinuxAcademy!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>echo Hello</title>
